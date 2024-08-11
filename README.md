@@ -64,7 +64,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/nextjs-react-complete-guide.git
+   git clone https://github.com/Tarraf2020/nextjs-advanced-routing-ssr.git
    ```
 2. **Install dependencies**:
 
