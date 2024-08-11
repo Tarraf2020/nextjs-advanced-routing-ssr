@@ -1,4 +1,3 @@
-
 # Next.js & React - The Complete Guide
 
 ![Next.js & React](https://user-images.githubusercontent.com/abc123/nextjs-react-banner.png)
@@ -13,7 +12,6 @@ This project showcases my journey through the Next.js & React course, covering k
   - **Dynamic Routing**: Implemented dynamic routing using the file-based routing system.
   - **Nested Routes**: Structured pages with nested routes for better user experience.
   - **Catch-all Routes**: Managed unknown routes gracefully with catch-all routes.
-  
 - **Section 6: Server-side Rendering (SSR) and Static Site Generation (SSG)**
   - **SSR**: Built components and pages that leverage server-side rendering for enhanced SEO and performance.
   - **SSG**: Utilized static site generation to pre-render pages at build time, optimizing load times and scalability.
@@ -59,7 +57,7 @@ Throughout this course, I gained in-depth knowledge of:
 - Implementing dynamic routing and navigation in a React app.
 - Leveraging Next.js features for SSR and SSG to improve SEO and performance.
 - Structuring and managing large-scale projects with reusable components and modular CSS.
-  
+
 ## 🛠️ Setup & Installation
 
 To run this project locally, follow these steps:
@@ -68,18 +66,20 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/nextjs-react-complete-guide.git
    ```
-   
 2. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
 3. **Run the development server**:
+
    ```bash
    npm run dev
    ```
 
 4. **Build for production**:
+
    ```bash
    npm run build
    ```
@@ -88,10 +88,6 @@ To run this project locally, follow these steps:
    ```bash
    npm start
    ```
-
-## 🌐 Live Demo
-
-Check out the live demo [here](https://your-live-demo-link.com) (Replace with your actual link).
 
 ## 🤝 Contributing
 
